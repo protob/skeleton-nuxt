@@ -1,0 +1,6 @@
+{
+    "volar.tsPlugin": false,
+    "i18n-ally.localesPaths": [
+        "locales"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  title: 'home',
+  description: 'Stat',
+
+  content: {
+    test: 'start',
+  },
+}

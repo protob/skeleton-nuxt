@@ -1,0 +1,7 @@
+{
+  title: '404',
+  description: '404',
+  '404Page': {
+    text: 'Page not found',
+  },
+}
